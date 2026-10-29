@@ -46,7 +46,7 @@ Gosto de unir código e estética: interfaces limpas, editoriais, com identidade
 
 - 🌱 Aprofundando **Python**, **JavaScript** e **React**
 - 🧠 Explorando agentes de IA e automações com **Claude Code**
-- 🚀 Construindo meu portfólio: [juliarabello.vercel.app](https://juliarabello.vercel.app)
+- 🚀 Construindo meu portfólio: [juliarabello.com.br](https://juliarabello.com.br)
 
 ### ✦ Vamos conversar?
 
